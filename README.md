@@ -1,1 +1,1 @@
-![সৌম্যর GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyaDghosh&show_icons=true&border_radius=25&theme=monokai)
+![সৌম্যর GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyaDghosh&show_icons=true&border_radius=25&title_color=2C001E&icon_color=F4AA90&text_color=2C001E&border_color=9F639A&bg_color=ca592f)
