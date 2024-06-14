@@ -38,3 +38,7 @@ If you like my works, please do consider supporting me via donations.
 
 
 <a href="https://donateviaupi.com/7719243876@jio?pn=Soumyadeep%20Ghosh&amount_list=100,200,500,1000" target="_blank"><img style="width:160px !important; height: 40px !important" src="https://payviaupi.com/default-orange.png" alt="donate via upi button"/></a>
+
+### Visits till now!
+
+![Visitor Count](https://profile-counter.glitch.me/soumyaDghosh/count.svg)
