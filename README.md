@@ -39,6 +39,8 @@ If you like my works, please do consider supporting me via donations.
 
 <a href="https://donateviaupi.com/7719243876@jio?pn=Soumyadeep%20Ghosh&amount_list=100,200,500,1000" target="_blank"><img style="width:160px !important; height: 40px !important" src="https://payviaupi.com/default-orange.png" alt="donate via upi button"/></a>
 
+<a href="https://github.com/sponsors/soumyaDghosh"><img style="width:160px !important; height: 40px !important" alt="Github Sponsor" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square"></a>
+
 ### Visits till now!
 
 ![Visitor Count](https://profile-counter.glitch.me/soumyaDghosh/count.svg)
