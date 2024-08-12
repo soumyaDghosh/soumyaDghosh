@@ -4,6 +4,7 @@ I am Soumyadeep Ghosh from Bengal, India; a FOSS enthusiast and contributor. My 
 
 ### Members at
 
+- [Ubuntu](https://discourse.ubuntu.com/t/soumyadeep-ghosh-membership-application/43576)
 - [Snapcrafters](https://github.com/orgs/snapcrafters/people?query=soumya) <sub> [1](https://forum.snapcraft.io/t/soumyadeep-ghosh-soumyadghosh-snapcrafters-membership-application/37959)</sub>
 
 - [Pacstall](https://github.com/orgs/pacstall/people?query=soumya)
